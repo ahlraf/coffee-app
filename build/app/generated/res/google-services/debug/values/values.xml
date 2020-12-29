@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1033658584525-24arrd7msvekmo82lq1a3apfmjlus70e.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1033658584525</string>
+    <string name="google_api_key" translatable="false">AIzaSyCYQ4uCA7aNLq6-voDFd12YhtDiVZKob1U</string>
+    <string name="google_app_id" translatable="false">1:1033658584525:android:342c24876fb7cdb4964884</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCYQ4uCA7aNLq6-voDFd12YhtDiVZKob1U</string>
+    <string name="google_storage_bucket" translatable="false">a-slice-for-tomorrow.appspot.com</string>
+    <string name="project_id" translatable="false">a-slice-for-tomorrow</string>
+</resources>
